@@ -47,9 +47,8 @@ determines the new grain number of the central site (marked with A, shown in par
 
 **Figure 4** Evolution of a circular grain with a radius of 64μm within a 256 $\times$ 256 pixel matrix. (a) Visual representations of
 the diminishing circular grain as simulated by MCP, PRIMME, and M-PRIMME methods. The temporal progression in MCP,
-PRIMME, and M-PRIMME simulations has been temporally adjusted to a real-time scale by fitting it to the analytical solution
-presented in Eq. 5. (b) The temporal evolution of the circular grain’s area in MCP, PRIMME, and M-PRIMME simulations.
-Additionally, as a reference, the analytical solution provided by Eq. 5 is also depicted, marked with a dashed line.
+PRIMME, and M-PRIMME simulations has been temporally adjusted to a real-time scale by fitting it to the analytical solution. (b) The temporal evolution of the circular grain’s area in MCP, PRIMME, and M-PRIMME simulations.
+Additionally, as a reference, the analytical solution provided is also depicted, marked with a dashed line.
 
 <div align="center">
     <img src="./images/Grain%20Growth%20(grain(512_512_512))%20Methods%20(Step).png" width="80%">
@@ -75,7 +74,7 @@ over time; (b) Change in the number of grains with time; (c) Change in the avera
 
 **Figure 7** Comparison of the behavior predicted by MCP, PRIMME, and M-PRIMME with the von Neumann-Mullins
 relationship from the 1024 $\times$ 1024 polycrystal with 4,096 in initial grains. Parts (a), (b), and (c) show the change in the grain
-area versus number of sides. The black line shows the relationship from Eq. (5), the blue line the average relationship from the
+area versus number of sides. The black line shows the relationship of the analytical solution, the blue line the average relationship from the
 simulations, and the error bars the standard deviation of the change in grain area. Similarly, parts (d), (e), and (f) illustrate the
 relationship between the change in grain area with time and the normalized grain, where the color of the points indicate the
 number of sides of the grains.
